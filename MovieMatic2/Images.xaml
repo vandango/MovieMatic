@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<Image x:Key="film_add" Source="Images/film_add.png" />
+	<Image x:Key="stop" Source="Images/stop.png" />
+	<Image x:Key="user_add" Source="Images/user_add.png" />
+	<Image x:Key="user" Source="Images/user.png" />
+	<Image x:Key="layers" Source="Images/layers.png" />
+	<Image x:Key="tag_blue_add" Source="Images/tag_blue_add.png" />
+	<Image x:Key="arrow_right" Source="Images/arrow_right.png" />
+	<Image x:Key="arrow_left" Source="Images/arrow_left.png" />
+	<Image x:Key="database_save" Source="Images/database_save.png" />
+	<Image x:Key="database_refresh" Source="Images/database_refresh.png" />
+	<Image x:Key="options" Source="Images/options.png" />
+	<Image x:Key="cross" Source="Images/cross.png" />
+	<Image x:Key="pencil" Source="Images/pencil.png" />
+</ResourceDictionary>

@@ -1,0 +1,77 @@
+=== Version 1.3.2 ===
+
+- Fixed some bugs
+
+
+=== Version 1.3.1 ===
+
+- Fixed some bugs
+
+
+=== Version 1.3.0 ===
+
+- Wikipedia Importer repaired (Empty UserAgent was now denied by Wikipedia.org)
+- Delete more then one person at a time
+- Some performance improvements
+- Upgrade to .NET 4.0 for MovieMatic and Toenda Foundation Libraries
+
+
+=== Version 1.2.1 ===
+
+- Einige Fehler beim Import aus Wikipedia wurden behoben.
+- Fehler im Versions-Checker behoben
+- Performance Verbesserung
+- Neuer Codec: BlueRayDVD
+
+
+=== Version 1.2.0 ===
+
+- Einige Fehler beim Import aus Wikipedia wurden behoben.
+- Der Wikipedia Dialog kann nun auch Wikipedia-Weiterleitungen umsetzen.
+- Es gibt nun einen Versions-Checker.
+
+
+=== Version 1.1.9 ===
+
+- Filme ohne zugeordnete Personen können nun in einem eigenen Fenster angeschaut
+  werden, damit man schnell sehen kann, wo noch Daten fehlen.
+- Filme können nun von Wikipedia importiert werden. Dazu gibt es eine Suche in
+  Wikipedia und der direkte Zugriff auf einen Artikel.
+- Filmeditor größtenteils mit der Tastaur bedienbar.
+
+
+=== Version 1.1.8 ===
+
+- Fehler beim Sortieren der Personen in der Personenverwaltung behoben.
+- Neue Eigenschaften für eine Person: Musiker, Kameramann, Cutter (Film-Schnitt) und Autor.
+- Neue Eigenschaft für einen Film: Sprache.
+
+
+=== Version 1.1.7 ===
+
+- Die Live-Suche nach Personen erfolgt nun Asynchron und mit einer
+  zeitlichen Verzögerung um die Performance zu verbessern.
+- Für die Darsteller eines Films können nun auch zusätzliche Daten
+  wie "Rolle im Film" und die Position "Hauptrolle" sowie "Nebenrolle"
+  hinzugefügt werden.
+- Die Personen in der Personendatenbank können nun (wieder) gelöscht
+  werden (Funktionalität über DEL-taste und Kontext-Menu).
+- Jede Person aus der Personendatenbank kann nun per ContextMenu als
+  Suchparameter für die Filmsuche verwendet werden.
+
+
+=== Version 1.1.6 ===
+
+- Allgemeine Verbesserung der Geschwindigkeit
+- "Vor" und "Zurück" funktioniert im Filmdialog nun korrekt
+
+
+=== Version 1.1.5 ===
+
+- Filme können nun wieder über das Menu und per Tastendruck gelöscht werden.
+- Der Daten-Export hat nun wieder alle Tabellenspalten zur Auswahl.
+
+
+=== Version 1.1.4 ===
+
+- Sortierwert eingefügt um eigene Sortierungen zu realisieren

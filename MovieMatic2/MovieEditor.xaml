@@ -1,0 +1,15 @@
+﻿<NavigationWindow x:Class="Toenda.MovieMatic.MovieEditor"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MovieEditor" 
+	SourceInitialized="NavigationWindow_SourceInitialized"
+	Background="White"
+	WindowStartupLocation="CenterScreen" 
+	WindowState="Normal" 
+	Height="525" 
+	Width="447" 
+	ResizeMode="NoResize">
+	<!--<Page Title="MovieEditor" WindowTitle="Film Editor" ShowsNavigationUI="True" Name="pageNavi">
+		
+	</Page>-->
+</NavigationWindow>
